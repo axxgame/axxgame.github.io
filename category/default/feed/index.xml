@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>默认 &#8211; 自行汉化或修改的renpy游戏</title>
+	<atom:link href="/category/default/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>自行汉化或修改的renpy游戏</description>
+	<lastBuildDate>Mon, 08 May 2023 06:41:00 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>特工Agent17-0.20.3-pc/apk</title>
+		<link>/agent17/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 06 May 2023 13:41:52 +0000</pubDate>
+				<category><![CDATA[默认]]></category>
+		<guid isPermaLink="false">/?p=44</guid>
+
+					<description><![CDATA[修改金钱每次+200]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="594" src="/wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-1024x594.jpg" alt="" class="wp-image-45" srcset="/wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-1024x594.jpg 1024w, /wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-300x174.jpg 300w, /wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-768x446.jpg 768w, /wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-1536x891.jpg 1536w, /wp-content/uploads/2023/05/屏幕截图-2023-05-06-213756-2048x1189.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>修改金钱每次+200</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://gofile.io/d/hHv79W" target="_blank" rel="noreferrer noopener">PC/APK</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>星体欲望AstralLust-0.2.4-pc/apk</title>
+		<link>/astrallust/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 06 May 2023 12:46:07 +0000</pubDate>
+				<category><![CDATA[默认]]></category>
+		<category><![CDATA[AstralLust]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[来打牌呀 修改了作弊代码，a1~a10,详细见文件。]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/screenshot0001-1024x576.jpg" alt="" class="wp-image-37" srcset="/wp-content/uploads/2023/05/screenshot0001-1024x576.jpg 1024w, /wp-content/uploads/2023/05/screenshot0001-300x169.jpg 300w, /wp-content/uploads/2023/05/screenshot0001-768x432.jpg 768w, /wp-content/uploads/2023/05/screenshot0001-1536x863.jpg 1536w, /wp-content/uploads/2023/05/screenshot0001-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>来打牌呀</p>
+
+
+
+<p></p>
+
+
+
+<p>修改了作弊代码，a1~a10,详细见文件。</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://gofile.io/d/ulT7qV" target="_blank" rel="noreferrer noopener">PC</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://pan.baidu.com/s/17D2tQBNEaS262ODbO5EZ4A?pwd=tyxe" target="_blank" rel="noreferrer noopener">APK</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
